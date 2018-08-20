@@ -1,0 +1,9 @@
+name: EasyTpa
+main: com.brageast.www.EasyTpa.EasyTpaMain
+version: 1.0.3
+commands:
+  etpa:
+    usage: /<command>
+    permission:
+      etpa.use:
+      default: true
